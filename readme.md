@@ -175,7 +175,7 @@ As a full stack developer, I have 7 years of experience in web development.
 
 
 
-## Core skills
+## Core skills!
 
 ✔ <b>Front-end</b> : React js / Next.js / TypeScript / Vue.js / TailwindCSS / Material UI <br>
 ✔ <b>Back-end</b> : Golang / Gin / Node.js / Express / Nest.js / Django / Laravel  <br>
@@ -184,6 +184,11 @@ As a full stack developer, I have 7 years of experience in web development.
 <br>
 
 <div style="display:flex;flex-direction:row;justify-content:center">
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=wr0110&column=8)](https://github-profile-trophy.vercel.app/?username=rockymartin0124&column=8)
+
+ <br>
   
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/confidentmeerkat/repos?)](https://githubtrends.io)
 
