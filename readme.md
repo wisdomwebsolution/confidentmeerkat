@@ -177,10 +177,10 @@ As a full stack developer, I have 7 years of experience in web development.
 
 ## Core skills!
 
-✔ <b>Front-end</b> : React js / Next.js / TypeScript / Vue.js / TailwindCSS / Material UI <br>
+✔ <b>Front-end</b> : React js / Next.js / TypeScript / Vue.js / Svelte.js / TailwindCSS / Material UI <br>
 ✔ <b>Back-end</b> : Golang / Gin / Node.js / Express / Nest.js / Django / Laravel  <br>
 ✔ <b>Database</b> : Mysql / PostgreSQL /MongoDB <br>
-✔ <b>Programming-languages</b> : JavaScript / HTML / CSS / PHP / Python <br>
+✔ <b>Programming-languages</b> : JavaScript / HTML / CSS / PHP / Python / Golang <br>
 <br>
 
 <div style="display:flex;flex-direction:row;justify-content:center">
