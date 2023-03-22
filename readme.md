@@ -1,4 +1,4 @@
-##  Thank you for taking your time to visit my profile.
+##  *Thank you for taking your time to visit my profile.*
 
 <span><b>[ Golang / Gin / React / Next.js / Vue.js / Svelte.js / TypeScript / Node.js / Express / GraphQL ]</b></span>
 
