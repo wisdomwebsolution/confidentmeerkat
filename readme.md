@@ -183,19 +183,15 @@ As a full stack developer, I have 7 years of experience in web development.
 ✔ <b>Programming-languages</b> : JavaScript / HTML / CSS / PHP / Python / Golang <br>
 <br>
 
-<div style="display:flex;flex-direction:row;justify-content:center">
-
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=confidentmeerkat&column=8)](https://github-profile-trophy.vercel.app/?username=confidentmeerkat&column=8)
 
  <br>
-  
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/confidentmeerkat/repos?)](https://githubtrends.io)
 
-  
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/confidentmeerkat/langs)](https://githubtrends.io)
-</div>
-
+<span>
+<img src="https://api.githubtrends.io/user/svg/confidentmeerkat/repos" width="300px" />
+<img src="https://api.githubtrends.io/user/svg/confidentmeerkat/langs" width="300px" />
+</span>
 
 </details>
 
