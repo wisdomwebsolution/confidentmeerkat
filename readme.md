@@ -6,6 +6,8 @@ As a full stack developer, I have 7 years of experience in web development.
 
 <br>
 
+**You can leave any messages [here in Github Discussion](https://github.com/confidentmeerkat/confidentmeerkat/discussions/categories/guestbook)**
+
 <h3>I always produce the best result.</h3>
 
 <br>
