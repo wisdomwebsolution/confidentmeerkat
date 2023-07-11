@@ -2,8 +2,6 @@
 
 <span><b>[ Golang / Gin / React / Next.js / Vue.js / Svelte.js / TypeScript / Node.js / Express / GraphQL ]</b></span>
 
-As a full stack developer, I have 7 years of experience in web development.
-
 <br>
 
 **You can leave any messages [here in Github Discussion](https://github.com/confidentmeerkat/confidentmeerkat/discussions/categories/guestbook)**
