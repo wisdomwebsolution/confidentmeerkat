@@ -183,16 +183,27 @@
 ✔ <b>Programming-languages</b> : JavaScript / HTML / CSS / PHP / Python / Golang <br>
 <br>
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=confidentmeerkat&column=8)](https://github-profile-trophy.vercel.app/?username=confidentmeerkat&column=8)
-
- <br>
-
-<span>
-<img src="https://api.githubtrends.io/user/svg/confidentmeerkat/repos" width="300px" />
-<img src="https://api.githubtrends.io/user/svg/confidentmeerkat/langs" width="300px" />
-</span>
-
-</details>
+ <h2>## 📈 Stats</h2>
+ <p align="center">
+     <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
+     <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px" height="100px">&emsp;
+     <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" /> 
+ </p>
+ <p align="center">
+ <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=confidentmeerkat&theme=matrix&no-bg=true&no-frame=true&column=5&title=MultiLanguage,Commits,Followers,Repositories,Stars">
+ </div>
+ <div align="center;margin-top:60px;">  
+    <img align="right" height="195px" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=confidentmeerkat&langs_count=10&layout=compact&hide_border=true&theme=gotham&PAT_1" />
+   <img align="left" height="195px" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=confidentmeerkat&&theme=gotham" />
+    <img src="https://github.com/abbasbayat0/abbasbayat0/assets/120355368/7cede4fe-7088-4b76-9e28-f9e42dac3205">
+ </div>
+ <div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/confidentmeerkat/count.svg" />  
+</p>
 
 
